@@ -198,6 +198,17 @@
     font-size:.9rem;
 
 }
+----------toc-button--------
+.toc-button {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 32px;   /* enlarge the 🌳 */
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 /* ---------- Debug ---------- */
 
 .toc-button{
