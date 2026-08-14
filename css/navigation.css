@@ -227,9 +227,11 @@
 
     height:56px !important;
 
-    border-radius:50% !important;
-
-    z-index:99999 !important;
+    border-radius:50% !important
+   
+   font-size: 32px;   /* enlarge the 🌳 */
+    
+   z-index:99999 !important;
 
 }
 
